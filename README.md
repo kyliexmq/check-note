@@ -19,7 +19,8 @@
 # Screenshots
 <img width="951" alt="Screen Shot 2023-01-11 at 8 24 23 pm" src="https://user-images.githubusercontent.com/114300308/211769393-878d3293-4d72-42b0-87a5-153353e0c854.png">
 
-<img width="951" alt="Screen Shot 2023-01-11 at 8 31 51 pm" src="https://user-images.githubusercontent.com/114300308/211769759-18fa684a-3fe2-4f89-a6be-a907814a9468.png">
+<img width="951" alt="Screen Shot 2023-01-11 at 8 35 05 pm" src="https://user-images.githubusercontent.com/114300308/211770465-f2cd57bf-2aae-4d36-ba8e-5a731a9e1b0d.png">
+
 
 
 # Project Status
